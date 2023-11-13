@@ -44,7 +44,7 @@ Due to the limit of time, only 2D simulation is implemented. Future works includ
 + Skinned models
 
 # Code
-The source code is available to download [here](https://github.com/Scorpion/)
+The source code is available to download [here](https://github.com/RuichenHe/Scorpion)
 
 
 
