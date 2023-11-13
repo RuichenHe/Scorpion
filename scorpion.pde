@@ -245,7 +245,7 @@ void keyPressed()
   if (key == 'r'){
     int randomInt = (int)random(30);
     Vec2 target;
-    if (randomInt < 10){
+    if (randomInt < 40){
       println("root");
       target = new Vec2(nodes.get(0).location.x, nodes.get(0).location.y);
       goal = new Vec2(random(-160, 160) + target.x, random(-160, 160) + target.y);
